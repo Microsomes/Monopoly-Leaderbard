@@ -1,6 +1,11 @@
 # Monopoly
 
-## Project setup
+##project description
+```
+Monopoly Championship a leaderboard for the worlds best players of Monopoly
+```
+
+## Project setup follow the steps below to compile and run the site
 ```
 npm install
 ```
